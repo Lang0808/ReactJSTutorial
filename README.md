@@ -1,5 +1,5 @@
 # ReactJSTutorial
-Imitate this tutorial: https://reactjs.org/tutorial/tutorial.html#wrapping-up <br/>
+Imitate this tutorial: https://reactjs.org/tutorial/tutorial.html<br/>
 I did some improvements which you can see in the bottom of tutorial: <br/>
 
     Display the location for each move in the format (col, row) in the move history list.
